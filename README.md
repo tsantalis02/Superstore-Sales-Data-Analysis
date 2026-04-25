@@ -62,25 +62,32 @@ Analyze sales data to identify trends, top-performing products, and performance 
 🚀 **Project Structure**
 
 📁 **data**
-    
-    - Contains the dataset used in the project.
-    - Includes both raw data and cleaned data.
+   <ul> 
+     <li>Contains the dataset used in the project.</li>
+     <li>Includes both raw data and cleaned data.</li>
+   </ul>
 
 📁 **notebooks**
 
-    - Includes Python notebooks used for data cleaning.
+   <ul>
+    <li>Includes Python notebooks used for data cleaning.</li>
+   </ul>
 
 📁 **sql**
-
-    - Contains SQL queries used for data analysis and answering business questions.
-
+    <ul>
+      <li>Contains SQL queries used for data analysis and answering business questions.</li>
+    </ul>
+    
 📁 **powerbi**
 
-    - Includes the Power BI dashboard file (.pbix) and screenshots of the report.
+   <ul>
+     <li>Includes the Power BI dashboard file (.pbix) and screenshots of the report.</li>
+   </ul>  
 
 📁 **README.md**
-
-    - Provides an overview of the project, tools used, and key insights from the analysis.
+    <ul> 
+      <li>Provides an overview of the project, tools used, and key insights from the analysis.</li>
+    </ul>  
 
 📸 **Screenshots**
 
