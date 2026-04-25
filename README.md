@@ -59,7 +59,7 @@ Analyze sales data to identify trends, top-performing products, and performance 
    - Improve pricing strategy in low-performing regions.
    - Target top customers for retention.
 
-🚀 Project Structure
+🚀 **Project Structure**
 
 📁 **data**
     
