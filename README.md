@@ -106,7 +106,7 @@ Analyze sales data to identify trends, top-performing products, and performance 
 
 🧾 **requirements.txt**
 
-    - pandas
+   - pandas
 
 🖇️ **How to Run**
 
